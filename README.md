@@ -1,4 +1,4 @@
-# Vue SPA with Azure AD B2C Login and DotNetCore Api Boilerpalte
+# Vue SPA with Azure AD B2C Login and DotNetCore Api Boilerplate
 
 > A project boilerplate for a Single Page Application in Vue JS calling an API in DotNetCore and authenticated with Azure AD B2C. The web app was generated using the [vue-cli](https://vuejs.org/v2/guide/installation.html#CLI) tool.
 
